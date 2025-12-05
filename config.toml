@@ -1,0 +1,35 @@
+[theme]
+base="light"
+primaryColor="#6A5ACD"                # slateBlue moderne
+backgroundColor="#FAF8FF"             # Blanc lavande très léger (fond principal)
+secondaryBackgroundColor="#F1ECFF"    # Fond des sections = lavande très pâle
+textColor="#2D2A45"                   # Texte sombre violet-gris
+font="sans serif"
+
+# Code
+codeTextColor="#4B3FA3"
+codeBackgroundColor="#E8E3FF"
+
+# Liens
+linkColor="#6A5ACD"
+linkUnderline=true
+
+# Radius
+baseRadius="0.6rem"
+buttonRadius="1rem"
+
+# Bordures
+borderColor="#C8C4E3"
+dataframeBorderColor="#B6B2D8"
+showWidgetBorder=false
+
+[theme.sidebar]
+backgroundColor="#F4F0FF"             # Sidebar lavande plus claire
+secondaryBackgroundColor="#EAE4FF"
+textColor="#2D2A45"
+baseRadius="0rem"
+showWidgetBorder=true
+borderColor="#C8C4E3"   
+
+
+
